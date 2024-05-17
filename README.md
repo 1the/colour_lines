@@ -4,3 +4,4 @@
 # once you formed the square, you get a point
 # the player with the highest score is the winner
 # if both player had equal score, no winner its tied match
+# copyrights: Alaa Mah-moud
